@@ -1,2 +1,2 @@
-# SAURABH-SONKER.github.io
+# saurabh-iitr2020.github.io
 sample repo
